@@ -27,3 +27,5 @@ void set_tone(void){
    if_write( 0x07, &tone_data[0], 35 );//write to FIFO
 }
 ```
+Sample code can be found at this link
+https://github.com/Tps-F/YMF825_sample
