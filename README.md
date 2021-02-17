@@ -7,6 +7,7 @@ This repository automates the conversion work required to use the "https://githu
 
 Use it as shown in the code below.
 
+```
 void set_tone(void){
   unsigned char tone_data[35] ={
     0x81,//header
@@ -25,3 +26,4 @@ void set_tone(void){
   
    if_write( 0x07, &tone_data[0], 35 );//write to FIFO
 }
+```
