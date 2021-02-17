@@ -1,5 +1,5 @@
 # YMF825_MIDI_System_Exclusive_Format
-This repository automates the conversion work required to use the "https://github.com/Tps-F/YMF825_sample" tonedata in a real program.
+This repository automates the conversion work required to use the "https://github.com/Tps-F/YMF825_sample/blob/master/tonedata/tonedata.txt" tonedata in a real program.
 
 # How to use it
 1: Copy the sounds you want to use from the tonedata file (e.g. 0b,01,0f,07,00,06,0f,27,00,01,08,07,0e,03,02,03,02,28,00,05,00,00,00,0d,01,01,04,03,22, 01,01,00,06,0d,02,02,06,04,00,01,01,00)
